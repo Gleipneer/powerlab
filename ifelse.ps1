@@ -1,6 +1,6 @@
 # kolla att talet är är större än än 5
 
-$tal = 4
+$tal = 10
 if ($tal -gt 5) {
     write-host "Talet är större än 5"# kod som körs om condition är sant
 } else { 
