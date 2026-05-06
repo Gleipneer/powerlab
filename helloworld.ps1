@@ -1,1 +1,1 @@
-Write-Output "Hello World from PowerShell"
+Write-Host "Hello World from PowerShell"
